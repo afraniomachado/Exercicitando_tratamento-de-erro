@@ -1,0 +1,15 @@
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\bin\Debug\net7.0\Exercicio_com_HttpClient.exe
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\bin\Debug\net7.0\Exercicio_com_HttpClient.deps.json
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\bin\Debug\net7.0\Exercicio_com_HttpClient.runtimeconfig.json
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\bin\Debug\net7.0\Exercicio_com_HttpClient.dll
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\bin\Debug\net7.0\Exercicio_com_HttpClient.pdb
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.csproj.AssemblyReference.cache
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.AssemblyInfoInputs.cache
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.AssemblyInfo.cs
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.csproj.CoreCompileInputs.cache
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.dll
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\refint\Exercicio_com_HttpClient.dll
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.pdb
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\Exercicio_com_HttpClient.genruntimeconfig.cache
+C:\C#\tratamento de erro com HttpClient\Exercicio_com_HttpClient\obj\Debug\net7.0\ref\Exercicio_com_HttpClient.dll
